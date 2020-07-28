@@ -1,5 +1,5 @@
 
-Deep Learning Nanodegree program Udacity
+Deep Learning Nanodegree Program - Udacity
 
 Predicting Bike-Sharing Data (Your First Neural Network)
 
